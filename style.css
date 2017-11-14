@@ -1,0 +1,100 @@
+html{
+    padding:6em;
+    background-color: whitesmoke;
+}
+section{
+    position: absolute;
+    display: inline-block;
+}
+h1{
+    font-family: "Courier 10 Pitch";
+    font-size:2em;
+    border:3px solid yellow;
+    width: 8em;
+    padding:1em;
+}
+
+u{
+    color: black;
+}
+
+
+#admin{
+    border:3px solid yellow;
+    width: 15em;
+    padding:1em;
+    letter-spacing: 2px;
+    font-family: "Courier 10 Pitch";
+
+    font-weight: bold;
+    color:black;
+    font-size:0.9em;
+    line-height: 1.5em;
+}
+#book:hover,#toto:hover,#user:hover{
+    color:black;
+}
+
+
+#book,#toto,#user{
+    padding: 1em;
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: "Courier 10 Pitch";
+
+    color:yellowgreen;
+    border:none;
+    border-radius:20px;
+    background-color: white;
+    border:3px solid crimson;
+    }
+
+#zone1, #zone2{
+    border-radius:20px;
+    padding:40px;
+    font-family: "Courier 10 Pitch";
+
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+#zone1{
+    float: left;
+    width: 60%;
+    color:cadetblue;
+    font-size:1.3em;
+    line-height: 1.8em;
+    border:3px solid cadetblue;
+
+}
+#zone2{
+    float: right;
+    width: 20%;
+    color:greenyellow;
+    /*font-size:1,3em;*/
+    line-height: 1.5em;
+    border:3px solid greenyellow;
+
+}
+
+span{
+    /*margin-top:5em;*/
+    padding: 0.4em;
+    color:white;
+    font-size:1.5em;
+    background-color: darkslategrey;
+}
+
+
+
+
+
+#lecture{
+    height:80px;
+    font-weight:bold;
+}
+
+.image{
+  width:160px;
+  height:190px;
+}
+

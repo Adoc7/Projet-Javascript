@@ -1,0 +1,24 @@
+{
+ "veh": [
+  {
+ "Vehicle_Make": "AU",
+ "Vehicle_Model": "Q073001B4A8DU7E",
+ "Vehicle_Description": "AUDI Q7   Busin 3,0 V6TDI 200kW quattro tiptronic",
+ "Vehicle_Price_including_VAT": 754500000000,
+ "Vehicle_Kind": "V",
+ "Vehicle_CO2": 149,
+ "Fuel_Type": "D",
+ "Maximum_Weight": 2765
+  },
+  {
+ "Vehicle_Make": "FO",
+ "Vehicle_Model": "FIE15TI15M6DH7F",
+ "Vehicle_Description": "FORD FIESTA 1,5 TDCi 85hv M6 Titanium 5ov",
+ "Vehicle_Price_including_VAT": 180900000000,
+ "Vehicle_Kind": "V",
+ "Vehicle_CO2": 89,
+ "Fuel_Type": "D",
+ "Maximum_Weight": 1680
+  }
+  ]
+  }
